@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App3.Page1">
+
+    <StackLayout>
+        <Label x:Name="nombreApellidosLabel" Text="" />
+        <Label x:Name="fechaNacimientoLabel" Text="" />
+        <Label x:Name="ocupacionLabel" Text="" />
+        <Label x:Name="contactoLabel" Text="" />
+        <Label x:Name="nacionalidadLabel" Text="" />
+        <Label x:Name="educacionLabel" Text="" />
+        <Label x:Name="idiomasLabel" Text="" />
+        <Label x:Name="lenguajesProgramacionLabel" Text="" />
+        <Label x:Name="aptitudesLabel" Text="" />
+        <Label x:Name="habilidadesLabel" Text="" />
+        <Label x:Name="perfilLabel" Text="" />
+    </StackLayout>
+
+</ContentPage>
