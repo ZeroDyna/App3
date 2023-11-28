@@ -27,3 +27,8 @@
 ### 7. **Navegación entre Páginas:**
    - Utilización de la navegación con Xamarin.Forms para pasar de la página de formulario (`MainPage`) a la página de confirmación (`Page1`).
 
+### 8. **Ejecucion:**
+
+![1](https://github.com/ZeroDyna/Formulario_xamarin/blob/main/conv_0.PNG?raw=true)
+
+![2](https://github.com/ZeroDyna/Formulario_xamarin/blob/main/conv_1.PNG?raw=true)
